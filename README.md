@@ -1,6 +1,9 @@
 # Credit-card-fraud-detection
 A machine learning–based credit card fraud detection system built using Python and Random Forest. The project preprocesses transaction data, handles class imbalance, and predicts fraudulent transactions with high accuracy.
 
+![creditcard](https://github.com/user-attachments/assets/fa645c57-c8b6-4954-86be-78ba925d6ba4)
+
+
 # Credit Card Fraud Detection using Machine Learning
 
 This project implements a machine learning–based credit card fraud detection system using Python and Scikit-learn. The goal is to identify fraudulent transactions from real-world credit card transaction data.
